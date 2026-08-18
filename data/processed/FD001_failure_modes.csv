@@ -1,0 +1,101 @@
+unit_number,time_cycles,predicted_RUL,likely_failure_mode
+34,203,6.4588447,Overheating Risk
+81,213,6.6830683,Overheating Risk
+35,198,8.082899,Overheating Risk + Pressure System Irregularity
+76,205,9.237854,Bearing / Mechanical Risk
+31,196,11.418726,Pressure System Irregularity
+56,136,12.234685,General Degradation
+20,184,12.285292,General Degradation
+82,162,12.562372,Overheating Risk
+68,187,12.566757,Overheating Risk
+66,147,16.057623,Overheating Risk + Bearing / Mechanical Risk
+36,126,18.92644,General Degradation
+100,198,19.867952,Overheating Risk + Bearing / Mechanical Risk + Core Performance Instability
+92,150,20.553434,General Degradation
+49,303,22.631668,Overheating Risk
+42,156,23.134434,Overheating Risk + Core Performance Instability
+90,146,23.660109,General Degradation
+24,186,23.67769,Bearing / Mechanical Risk
+40,133,29.117065,General Degradation
+91,234,30.883478,General Degradation
+64,168,36.31392,General Degradation
+53,164,37.479305,Bearing / Mechanical Risk + Core Performance Instability
+52,189,39.5126,Bearing / Mechanical Risk
+38,125,41.659805,General Degradation
+61,159,41.97586,General Degradation
+46,146,43.12531,General Degradation
+93,244,46.322803,General Degradation
+32,145,46.59007,Bearing / Mechanical Risk
+58,176,48.00213,General Degradation
+77,162,51.42268,General Degradation
+17,165,52.204308,Bearing / Mechanical Risk
+41,123,52.480732,General Degradation
+94,133,54.202095,Overheating Risk
+3,126,56.041214,General Degradation
+62,232,56.882706,Bearing / Mechanical Risk
+18,133,58.894627,General Degradation
+37,121,60.313206,General Degradation
+84,172,62.157627,General Degradation
+21,148,63.82862,Bearing / Mechanical Risk
+63,155,63.926273,General Degradation
+45,152,65.716675,General Degradation
+43,172,69.97057,General Degradation
+98,121,73.53098,General Degradation
+30,143,74.87793,General Degradation
+57,160,78.605705,General Degradation
+80,133,80.53227,Pressure System Irregularity
+74,137,80.6147,General Degradation
+4,106,81.59416,General Degradation
+8,166,82.8569,General Degradation
+51,144,84.1682,General Degradation
+72,131,84.63746,General Degradation
+86,110,86.663795,General Degradation
+70,152,86.673836,General Degradation
+97,134,88.66301,General Degradation
+60,147,89.71208,General Degradation
+28,158,90.04721,General Degradation
+89,177,90.57078,General Degradation
+6,105,91.68287,General Degradation
+27,140,95.68436,General Degradation
+79,101,95.80221,General Degradation
+55,113,96.55402,Core Performance Instability
+5,98,96.98661,Pressure System Irregularity
+19,135,97.30988,General Degradation
+10,192,100.77953,Core Performance Instability + Pressure System Irregularity
+11,83,100.927086,General Degradation
+75,88,101.50521,Core Performance Instability + Pressure System Irregularity
+16,113,101.979836,General Degradation
+73,112,102.74606,General Degradation
+12,217,103.130066,General Degradation
+7,160,103.353874,Core Performance Instability
+50,74,104.72268,Pressure System Irregularity
+95,89,106.52871,General Degradation
+13,195,106.82812,General Degradation
+48,78,108.05421,General Degradation
+29,171,108.09604,General Degradation
+54,121,108.492294,General Degradation
+26,76,109.404396,Core Performance Instability
+99,97,110.111046,General Degradation
+14,46,110.299126,General Degradation
+96,97,110.966835,General Degradation
+83,73,111.328835,General Degradation
+59,94,112.64551,General Degradation
+47,73,112.84651,General Degradation
+23,130,113.06467,General Degradation
+88,68,113.0944,Pressure System Irregularity
+71,68,115.688354,General Degradation
+15,76,116.83962,General Degradation
+67,71,117.674355,General Degradation
+69,54,119.18869,General Degradation
+44,54,119.62112,General Degradation
+9,55,120.07552,General Degradation
+2,49,120.081085,General Degradation
+87,56,120.39002,General Degradation
+78,72,120.61521,Core Performance Instability
+25,48,120.76844,General Degradation
+22,39,121.544815,General Degradation
+65,71,121.658,Pressure System Irregularity
+33,50,121.761536,General Degradation
+85,34,121.92193,Core Performance Instability
+39,37,122.94835,General Degradation
+1,31,124.4114,Pressure System Irregularity

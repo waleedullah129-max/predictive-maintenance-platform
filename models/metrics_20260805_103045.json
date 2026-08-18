@@ -1,0 +1,44 @@
+{
+  "run_timestamp": "2026-08-05T10:30:45.700131",
+  "n_features": 73,
+  "cv": {
+    "cv_rmse_mean": 16.296260876434555,
+    "cv_rmse_std": 0.6951016020896197,
+    "cv_mae_mean": 11.285693740844726,
+    "cv_mae_std": 0.6299155557287242
+  },
+  "validation_last_cycle": {
+    "rmse": 3.9095747569618666,
+    "mae": 3.7351889610290527,
+    "nasa_score": 9.2576251173805
+  },
+  "test_last_cycle": {
+    "rmse": 17.13140704734655,
+    "mae": 12.455230712890625,
+    "nasa_score": 514.3418621372721
+  },
+  "top_10_features": {
+    "sensor_4_roll_mean": 0.41979703307151794,
+    "sensor_11_roll_mean": 0.2236463576555252,
+    "sensor_15_roll_mean": 0.04870547726750374,
+    "operating_hours": 0.030553117394447327,
+    "utilization_rate": 0.024441711604595184,
+    "sensor_2_roll_mean": 0.023002345114946365,
+    "sensor_3_roll_mean": 0.021358851343393326,
+    "sensor_9": 0.017683954909443855,
+    "sensor_21_roll_mean": 0.01564498245716095,
+    "sensor_9_roll_mean": 0.01543680764734745
+  },
+  "xgb_params": {
+    "n_estimators": 500,
+    "max_depth": 6,
+    "learning_rate": 0.03,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "reg_lambda": 1.0,
+    "random_state": 42,
+    "n_jobs": -1,
+    "early_stopping_rounds": 30,
+    "eval_metric": "rmse"
+  }
+}

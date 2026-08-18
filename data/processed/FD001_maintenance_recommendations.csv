@@ -1,0 +1,101 @@
+unit_number,time_cycles,predicted_RUL,health_score,risk_level,likely_failure_mode,recommended_action
+34,203,6.4588447,5.2,Critical,Overheating Risk,Emergency Shutdown
+81,213,6.6830683,5.3,Critical,Overheating Risk,Emergency Shutdown
+35,198,8.082899,6.5,Critical,Overheating Risk + Pressure System Irregularity,Emergency Shutdown
+76,205,9.237854,7.4,Critical,Bearing / Mechanical Risk,Emergency Shutdown
+31,196,11.418726,9.1,Critical,Pressure System Irregularity,Emergency Shutdown
+20,184,12.285292,9.8,Critical,General Degradation,Emergency Shutdown
+56,136,12.234685,9.8,Critical,General Degradation,Emergency Shutdown
+82,162,12.562372,10.0,Critical,Overheating Risk,Emergency Shutdown
+68,187,12.566757,10.1,Critical,Overheating Risk,Emergency Shutdown
+66,147,16.057623,12.8,Critical,Overheating Risk + Bearing / Mechanical Risk,Emergency Shutdown
+36,126,18.92644,15.1,High Risk,General Degradation,Immediate Repair
+100,198,19.867952,15.9,High Risk,Overheating Risk + Bearing / Mechanical Risk + Core Performance Instability,Immediate Repair (Overheating Risk + Bearing / Mechanical Risk + Core Performance Instability)
+92,150,20.553434,16.4,High Risk,General Degradation,Immediate Repair
+49,303,22.631668,18.1,High Risk,Overheating Risk,Immediate Repair (Overheating Risk)
+42,156,23.134434,18.5,High Risk,Overheating Risk + Core Performance Instability,Immediate Repair (Overheating Risk + Core Performance Instability)
+24,186,23.67769,18.9,High Risk,Bearing / Mechanical Risk,Immediate Repair (Bearing / Mechanical Risk)
+90,146,23.660109,18.9,High Risk,General Degradation,Immediate Repair
+40,133,29.117065,23.3,High Risk,General Degradation,Immediate Repair
+91,234,30.883478,24.7,High Risk,General Degradation,Immediate Repair
+64,168,36.31392,29.1,High Risk,General Degradation,Immediate Repair
+53,164,37.479305,30.0,High Risk,Bearing / Mechanical Risk + Core Performance Instability,Immediate Repair (Bearing / Mechanical Risk + Core Performance Instability)
+52,189,39.5126,31.6,High Risk,Bearing / Mechanical Risk,Immediate Repair (Bearing / Mechanical Risk)
+38,125,41.659805,33.3,High Risk,General Degradation,Immediate Repair
+61,159,41.97586,33.6,High Risk,General Degradation,Immediate Repair
+46,146,43.12531,34.5,High Risk,General Degradation,Immediate Repair
+93,244,46.322803,37.1,High Risk,General Degradation,Immediate Repair
+32,145,46.59007,37.3,High Risk,Bearing / Mechanical Risk,Immediate Repair (Bearing / Mechanical Risk)
+58,176,48.00213,38.4,High Risk,General Degradation,Immediate Repair
+77,162,51.42268,41.1,Moderate Risk,General Degradation,Scheduled Maintenance
+17,165,52.204308,41.8,Moderate Risk,Bearing / Mechanical Risk,Scheduled Maintenance
+41,123,52.480732,42.0,Moderate Risk,General Degradation,Scheduled Maintenance
+94,133,54.202095,43.4,Moderate Risk,Overheating Risk,Scheduled Maintenance
+3,126,56.041214,44.8,Moderate Risk,General Degradation,Scheduled Maintenance
+62,232,56.882706,45.5,Moderate Risk,Bearing / Mechanical Risk,Scheduled Maintenance
+18,133,58.894627,47.1,Moderate Risk,General Degradation,Scheduled Maintenance
+37,121,60.313206,48.3,Moderate Risk,General Degradation,Scheduled Maintenance
+84,172,62.157627,49.7,Moderate Risk,General Degradation,Scheduled Maintenance
+63,155,63.926273,51.1,Moderate Risk,General Degradation,Scheduled Maintenance
+21,148,63.82862,51.1,Moderate Risk,Bearing / Mechanical Risk,Scheduled Maintenance
+45,152,65.716675,52.6,Moderate Risk,General Degradation,Scheduled Maintenance
+43,172,69.97057,56.0,Moderate Risk,General Degradation,Scheduled Maintenance
+98,121,73.53098,58.8,Moderate Risk,General Degradation,Scheduled Maintenance
+30,143,74.87793,59.9,Moderate Risk,General Degradation,Scheduled Maintenance
+57,160,78.605705,62.9,Moderate Risk,General Degradation,Scheduled Maintenance
+80,133,80.53227,64.4,Moderate Risk,Pressure System Irregularity,Scheduled Maintenance
+74,137,80.6147,64.5,Moderate Risk,General Degradation,Scheduled Maintenance
+4,106,81.59416,65.3,Moderate Risk,General Degradation,Scheduled Maintenance
+8,166,82.8569,66.3,Moderate Risk,General Degradation,Scheduled Maintenance
+51,144,84.1682,67.3,Moderate Risk,General Degradation,Scheduled Maintenance
+72,131,84.63746,67.7,Moderate Risk,General Degradation,Scheduled Maintenance
+70,152,86.673836,69.3,Moderate Risk,General Degradation,Scheduled Maintenance
+86,110,86.663795,69.3,Moderate Risk,General Degradation,Scheduled Maintenance
+97,134,88.66301,70.9,Healthy,General Degradation,Continue Monitoring
+60,147,89.71208,71.8,Healthy,General Degradation,Continue Monitoring
+28,158,90.04721,72.0,Healthy,General Degradation,Continue Monitoring
+89,177,90.57078,72.5,Healthy,General Degradation,Continue Monitoring
+6,105,91.68287,73.3,Healthy,General Degradation,Continue Monitoring
+27,140,95.68436,76.5,Healthy,General Degradation,Continue Monitoring
+79,101,95.80221,76.6,Healthy,General Degradation,Continue Monitoring
+55,113,96.55402,77.2,Healthy,Core Performance Instability,Continue Monitoring
+5,98,96.98661,77.6,Healthy,Pressure System Irregularity,Continue Monitoring
+19,135,97.30988,77.8,Healthy,General Degradation,Continue Monitoring
+10,192,100.77953,80.6,Healthy,Core Performance Instability + Pressure System Irregularity,Continue Monitoring
+11,83,100.927086,80.7,Healthy,General Degradation,Continue Monitoring
+75,88,101.50521,81.2,Healthy,Core Performance Instability + Pressure System Irregularity,Continue Monitoring
+16,113,101.979836,81.6,Healthy,General Degradation,Continue Monitoring
+73,112,102.74606,82.2,Healthy,General Degradation,Continue Monitoring
+12,217,103.130066,82.5,Healthy,General Degradation,Continue Monitoring
+7,160,103.353874,82.7,Healthy,Core Performance Instability,Continue Monitoring
+50,74,104.72268,83.8,Healthy,Pressure System Irregularity,Continue Monitoring
+95,89,106.52871,85.2,Healthy,General Degradation,Continue Monitoring
+13,195,106.82812,85.5,Healthy,General Degradation,Continue Monitoring
+48,78,108.05421,86.4,Healthy,General Degradation,Continue Monitoring
+29,171,108.09604,86.5,Healthy,General Degradation,Continue Monitoring
+54,121,108.492294,86.8,Healthy,General Degradation,Continue Monitoring
+26,76,109.404396,87.5,Healthy,Core Performance Instability,Continue Monitoring
+99,97,110.111046,88.1,Healthy,General Degradation,Continue Monitoring
+14,46,110.299126,88.2,Healthy,General Degradation,Continue Monitoring
+96,97,110.966835,88.8,Healthy,General Degradation,Continue Monitoring
+83,73,111.328835,89.1,Healthy,General Degradation,Continue Monitoring
+59,94,112.64551,90.1,Healthy,General Degradation,Continue Monitoring
+47,73,112.84651,90.3,Healthy,General Degradation,Continue Monitoring
+88,68,113.0944,90.5,Healthy,Pressure System Irregularity,Continue Monitoring
+23,130,113.06467,90.5,Healthy,General Degradation,Continue Monitoring
+71,68,115.688354,92.6,Healthy,General Degradation,Continue Monitoring
+15,76,116.83962,93.5,Healthy,General Degradation,Continue Monitoring
+67,71,117.674355,94.1,Healthy,General Degradation,Continue Monitoring
+69,54,119.18869,95.4,Healthy,General Degradation,Continue Monitoring
+44,54,119.62112,95.7,Healthy,General Degradation,Continue Monitoring
+2,49,120.081085,96.1,Healthy,General Degradation,Continue Monitoring
+9,55,120.07552,96.1,Healthy,General Degradation,Continue Monitoring
+87,56,120.39002,96.3,Healthy,General Degradation,Continue Monitoring
+78,72,120.61521,96.5,Healthy,Core Performance Instability,Continue Monitoring
+25,48,120.76844,96.6,Healthy,General Degradation,Continue Monitoring
+22,39,121.544815,97.2,Healthy,General Degradation,Continue Monitoring
+65,71,121.658,97.3,Healthy,Pressure System Irregularity,Continue Monitoring
+33,50,121.761536,97.4,Healthy,General Degradation,Continue Monitoring
+85,34,121.92193,97.5,Healthy,Core Performance Instability,Continue Monitoring
+39,37,122.94835,98.4,Healthy,General Degradation,Continue Monitoring
+1,31,124.4114,99.5,Healthy,Pressure System Irregularity,Continue Monitoring

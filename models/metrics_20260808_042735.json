@@ -1,0 +1,45 @@
+{
+  "run_timestamp": "2026-08-08T04:27:35.286457",
+  "n_features": 72,
+  "cv": {
+    "cv_rmse_mean": 16.252503695490695,
+    "cv_rmse_std": 0.6948791452466136,
+    "cv_mae_mean": 11.417653465270996,
+    "cv_mae_std": 0.6488311709248786
+  },
+  "validation_full_trajectory": {
+    "rmse": 14.784785228997347,
+    "mae": 10.157197952270508,
+    "nasa_score": 16482.934582551163
+  },
+  "test_last_cycle": {
+    "rmse": 16.92140790271768,
+    "mae": 12.189199447631836,
+    "nasa_score": 522.9105162865991
+  },
+  "top_10_features": {
+    "sensor_4_roll_mean": 0.32191455364227295,
+    "sensor_11_roll_mean": 0.22444745898246765,
+    "sensor_15_roll_mean": 0.11315302550792694,
+    "sensor_3_roll_mean": 0.05352028086781502,
+    "sensor_2_roll_mean": 0.044079750776290894,
+    "sensor_9": 0.03766774758696556,
+    "operating_hours": 0.028185196220874786,
+    "sensor_21_roll_mean": 0.02314533293247223,
+    "sensor_9_roll_mean": 0.01718565821647644,
+    "sensor_7_roll_mean": 0.013521547429263592
+  },
+  "xgb_params": {
+    "n_estimators": 500,
+    "max_depth": 4,
+    "learning_rate": 0.03,
+    "min_child_weight": 5,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "reg_lambda": 1.0,
+    "random_state": 42,
+    "n_jobs": -1,
+    "early_stopping_rounds": 30,
+    "eval_metric": "rmse"
+  }
+}
